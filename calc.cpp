@@ -38,7 +38,7 @@ int main() {
             }
             break;
         default:
-            cout << "Error: Invalid operator. Please use +, -, *, or /.\n";
+            cout << "Invalid operator\n";
     }
 
     return 0;
